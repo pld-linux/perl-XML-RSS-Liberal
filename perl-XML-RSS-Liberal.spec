@@ -8,7 +8,7 @@ Summary:	XML::RSS::Liberal - XML::RSS With A Liberal Parser
 Summary(pl.UTF-8):	XML::RSS::Liberal - XML::RSS z liberalnym analizatorem
 Name:		perl-XML-RSS-Liberal
 Version:	0.03_01
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
